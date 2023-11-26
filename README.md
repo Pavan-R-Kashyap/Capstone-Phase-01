@@ -10,3 +10,9 @@
 The analysis and documentation of malware samples in this repository are strictly for educational and research purposes. The intention behind this project is to enhance understanding of malware workings and promote proactive defense strategies. The use of malware samples for any malicious or unauthorized activities is strictly prohibited. 
 
 The repository owners and contributors are not responsible for any misuse or illegal actions conducted with the information provided. Users are advised to exercise caution, adhere to ethical guidelines, and comply with applicable laws and regulations while accessing or utilizing the contents of this repository.
+
+# Authors 
+1. **Pavan R Kashyap**
+2. **Phaneesh R Katti**
+3. **Hrishikesh Bhat P**
+4. **Pranav K Hegde**
